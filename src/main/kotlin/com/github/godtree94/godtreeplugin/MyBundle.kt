@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.godtree94.godtreeplugin
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls

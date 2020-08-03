@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.godtree94.godtreeplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.godtree94.godtreeplugin.MyBundle
 
 class MyApplicationService {
 
